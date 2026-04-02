@@ -1,2 +1,2 @@
 real file
-changed smth
+changed smth1
